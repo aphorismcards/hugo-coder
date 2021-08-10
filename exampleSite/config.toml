@@ -2,7 +2,7 @@ baseURL = "http://www.example.com"
 title = "Arzu ALVAN"
 theme = "hugo-coder"
 languageCode = "tr"
-defaultContentLanguage = "en"
+defaultContentLanguage = "tr"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
@@ -12,13 +12,13 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "Arzu ALVAN"
+author = "Ati"
+description = "Ati"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
+footerContent = "Ne yazsam ki"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -103,42 +103,42 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa fa-gitlab"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://gitlab.com/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/arzualvancom/"
+url = "https://twitter.com/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-medium"
 weight = 5
-url = "https://medium.com/@arzualvancom"
+url = "https://medium.com/@"
 
 [[params.social]]
 name = "RSS"
 icon = "fa fa-rss"
 weight = 6
-url = "https://myhugosite.com/index.xml"
+url = "https://"
 rel = "alternate"
 type = "application/rss+xml"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":tr:"
 
 [[languages.en.menu.main]]
 name = "About"
