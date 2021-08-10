@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "Arzu ALVAN"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "John Doe"
-description = "John Doe's personal website"
+description = "Arzu ALVAN"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevOps", "Magician"]
 avatarURL = "images/avatar.jpg"
@@ -115,7 +115,7 @@ url = "https://gitlab.com/johndoe/"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/arzualvancom/"
 
 [[params.social]]
 name = "LinkedIn"
@@ -127,7 +127,7 @@ url = "https://www.linkedin.com/in/johndoe/"
 name = "Medium"
 icon = "fa fa-medium"
 weight = 5
-url = "https://medium.com/@johndoe"
+url = "https://medium.com/@arzualvancom"
 
 [[params.social]]
 name = "RSS"
