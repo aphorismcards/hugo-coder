@@ -1,7 +1,7 @@
 baseURL = "http://www.example.com"
 title = "Arzu ALVAN"
 theme = "hugo-coder"
-languageCode = "en"
+languageCode = "tr"
 defaultContentLanguage = "en"
 paginate = 20
 pygmentsStyle = "bw"
