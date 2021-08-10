@@ -1,6 +1,6 @@
 +++
 author = "Ati"
-title = "Lorem"
+title = "Blog yazısı"
 date = "2019-03-05"
 description = "Lorem"
 tags = [ ]
